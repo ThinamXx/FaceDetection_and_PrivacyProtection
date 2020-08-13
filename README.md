@@ -1,2 +1,2 @@
-# Face-Detection-and-Privacy-Protection
-In this repository, I have used Python and Keras to detect the Face and Blur them for Privacy Protection. I hope you will gain some insights about Face Detection with Python and Keras.
+# **Face Detection and Privacy Protection**
+- This is a simple Project on Face detection from an Image and Blurring the face part of an Image for the purpose of privacy protection. I have included this Project because it was so interesting for me at first. It is one of the first Image Prediction Projects I have ever done. You can get insights about the Implementation of Gaussian Filters as well as Cascade Classfier in this Project.
